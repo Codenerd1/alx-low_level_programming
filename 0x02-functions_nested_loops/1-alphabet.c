@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet - Function to make the alphabet
- * 
  * Return: void (sucess)
  */
 
