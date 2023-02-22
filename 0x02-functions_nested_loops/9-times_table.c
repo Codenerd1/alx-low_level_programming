@@ -1,8 +1,7 @@
 #include "main.h"
 
 /*
- * times_table - Computes the 9 times table, starting with 0
- * @void: The value to be evaluated
+ * times_table -Prints the 9 times table, starting with 0
  * Return: Empty output
  */
 
