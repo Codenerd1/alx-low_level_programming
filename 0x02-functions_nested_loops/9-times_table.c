@@ -2,7 +2,7 @@
 
 /*
  * times_table - Print the multiplication table for the numbers 0 through 9
- *
+ * @void: Argument taken
  * Return: void
  */
 
