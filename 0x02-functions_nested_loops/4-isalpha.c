@@ -1,4 +1,3 @@
-
 /** 
  * _isalpha - Function to check for alphabetic charachter
  * @c: The character to be checked
