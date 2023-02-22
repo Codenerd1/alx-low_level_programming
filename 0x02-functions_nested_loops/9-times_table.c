@@ -2,6 +2,7 @@
 
 /*
  * times_table - Computes the 9 times table, starting with 0
+ * @void: The value to be evaluated
  * Return: Empty output
  */
 
