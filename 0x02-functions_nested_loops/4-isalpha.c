@@ -1,4 +1,4 @@
-/** 
+/**
  * _isalpha - To check for alphabetic charachter
  * @c: The character to be checked
  * Return: either 1 or 0 for alphabetic character or anything else respectively
