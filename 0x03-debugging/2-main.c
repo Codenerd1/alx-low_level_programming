@@ -3,6 +3,7 @@
 
 /**
 * main - prints the largest of 3 integers
+* @a,b,c: values to be checked
 * Return: 0
 */
 
