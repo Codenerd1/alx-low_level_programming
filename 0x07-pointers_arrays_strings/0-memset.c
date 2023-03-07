@@ -2,18 +2,20 @@
 
 /**
  * _memcpy - Entry point
- *  @dest: input
- *  @src: input
+ *  @s: input
+ *  @b: input
  *  @n: variable
  *  Return: Always 0 (success)
  */
 
-char *_memcpy(char *dest, char *src, unsigned int n)
+char *_memcpy(char *s, char b, unsigned int n)
 {
-	unsigned int i;
+	int i;
 
-	for (i = 0; i < n; i++)
-	dest[i] = src[i];
-
-	return (dest);
+	for (; n > 0; i++)
+	{
+		s[i] = b;
+		n--;
+	}
+	return (s);
 }
