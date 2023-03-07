@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * _memcpy - Entry point
+ * _memset - Entry point
  *  @s: input
  *  @b: input
  *  @n: variable
  *  Return: Always 0 (success)
  */
 
-char *_memcpy(char *s, char b, unsigned int n)
+char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int i;
 
