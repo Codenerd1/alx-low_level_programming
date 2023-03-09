@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _pint_rev_recursion - Print a string in reverse
+ * _print_rev_recursion - Print a string in reverse
  * @s: the string to be revised
  *
  * Return: Nothing
