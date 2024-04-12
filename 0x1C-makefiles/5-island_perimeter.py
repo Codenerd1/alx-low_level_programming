@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Defines the perimeter of an island."""
 
+
 def island_perimeter(grid):
     """Returns the perimeter of an island.
     Grid represents water by zero and land by one.
