@@ -5,7 +5,7 @@ NAME = school
 RM = /bin/rm -f
 CFLAGS = -Wall -Werror -Wextra -pedantic
 
-all: m.h
+all: m.h $(OBJ)
 	$(CC) $(OBJ) -O $(NAME)
 
 clean:
